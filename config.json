@@ -9,13 +9,13 @@
         "gh_url":"https://github.com/Blogotype",
         "blog_name": "Blogotype",
         "tag_line": "Blogging for Amateurs",
-        "gmail-user": "counselatikigai@gmail.com",
-        "gmail-password": "ikigai@2020",
+        "gmail-user": "counsel########@gmail.com",
+        "gmail-password": "*******2020",
         "about_text": "This is the first project named Blogotype made by using flask and python with the help of bootstrap.",
         "no_of_posts": 2 ,
         "login_image":"login.svg",
         "admin_user":"rahul",
-        "admin_password": "rahul2308",
+        "admin_password": "*********",
         "upload_location": "C:\\Users\\rahul\\Desktop\\exercises\\Flask\\static"
         
         
